@@ -44,3 +44,4 @@ python tugas/kalkulator_koordinat.py
 - Titik B: (2.5, 3)
 - Jarak: 4.00
 - Titik tengah: (2.50, 1.00)
+Dokumen ini dibuat untuk memenuhi tugas Pertemuan 02 Dasar Python.

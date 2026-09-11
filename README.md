@@ -45,3 +45,8 @@ python tugas/kalkulator_koordinat.py
 - Jarak: 4.00
 - Titik tengah: (2.50, 1.00)
 Dokumen ini dibuat untuk memenuhi tugas Pertemuan 02 Dasar Python.
+## Hasil Pengujian
+
+Program telah diuji menggunakan tiga kasus pengujian yang diberikan pada tugas dan menghasilkan output yang sesuai.
+
+Semua program pada folder latihan dan kalkulator koordinat dapat dijalankan melalui terminal VS Code.
